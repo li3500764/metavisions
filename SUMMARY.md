@@ -3,7 +3,7 @@
 * [概述](README.md)
   * [幻视诞生的背景](gai-shu/huan-shi-dan-sheng-de-bei-jing.md)
   * [介绍](gai-shu/jie-shao.md)
-* [入门](ru-men.md)
+* [入门指南](ru-men-zhi-nan.md)
 * [游戏元素](you-xi-yuan-su/README.md)
   * [MetaVision游戏模式](you-xi-yuan-su/metavision-you-xi-mo-shi.md)
   * [幻视播放器VFT—VSFT](you-xi-yuan-su/huan-shi-bo-fang-qi-vftvsft.md)
