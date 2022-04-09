@@ -1,6 +1,6 @@
 # 幻视徽章VFT—VBDT
 
-VBDT的分类分为成就VBDT与收益VBDT。每个VSFT只可以装备一个VBDT。
+VBDT的分类分为成就VBDT与收益VBDT。**每个VSFT只可以装备一个VBDT。**
 
 VBDT的赋能与交易将在幻视Phase2阶段而不是初始Phase1阶段打开。在Phase2阶段，用户完成系统内赋予的具有不同困难程度的任务，即可获得更多的徽章。
 
