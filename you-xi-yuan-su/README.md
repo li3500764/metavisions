@@ -2,7 +2,7 @@
 
 ### [MetaVision游戏模式](metavision-you-xi-mo-shi.md)
 
-### [幻视播放器VFT—VSFT](huan-shi-bo-fang-qi-vftvsft/)
+### [幻视播放器VFT—VSFT](huan-shi-bo-fang-qi-vftvsft.md)
 
 ### [幻视宝石VFT—VDFT](huan-shi-bao-shi-vftvdft.md)
 
