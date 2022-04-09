@@ -2,9 +2,7 @@
 
 * [概述](README.md)
   * [幻视诞生的背景](gai-shu/huan-shi-dan-sheng-de-bei-jing.md)
-  * [介绍](gai-shu/jie-shao/README.md)
-    * [幻视的使命与愿景](gai-shu/jie-shao/huan-shi-de-shi-ming-yu-yuan-jing.md)
-    * [幻视的用户版块](gai-shu/jie-shao/huan-shi-de-yong-hu-ban-kuai.md)
+  * [介绍](gai-shu/jie-shao.md)
 * [入门](ru-men.md)
 * [游戏元素](you-xi-yuan-su/README.md)
   * [MetaVision游戏模式](you-xi-yuan-su/metavision-you-xi-mo-shi.md)
