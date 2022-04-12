@@ -1,8 +1,8 @@
 # 🚪 Getting Started
 
-To start, users need to download the **MetaVision** app
+To start, users need to download the **MetaVision app**
 
-1\. Download the **MetaVision** app
+1\. Download the **MetaVision** **app**
 
 Download link from Apple store, Android official download
 
@@ -18,7 +18,7 @@ The **MetaVision** system provides users with wallets in the system that store t
 
 Using VIT + BUSD to purchase, users prepare BUSD and purchase BUSD in decentralised dex, and prepare for initial consumption within **MetaVision** .
 
-( 5 ) Purchase of vision player VSFT
+( 5 ) Purchase of vision player **VSFT**
 
-Users can use BUSD to pre-purchase intra-visual VSFT before the opening of the **MetaVision** . After the opening of the **MetaVision** , they can purchase VSFT from the **MetaVision**  system by VIT + BUSD combination. At the same time, the **MetaVision**  will open the trading system of VSFT. Users can purchase VSFT from VIT to their users in the trading market.
+Users can use BUSD to pre-purchase intra-visual **VSFT** before the opening of the **MetaVision** . After the opening of the **MetaVision** , they can purchase VSFT from the **MetaVision**  system by **VIT + BUSD** combination. At the same time, the **MetaVision**  will open the trading system of **VSFT**. Users can purchase **VSFT** from **VIT** to their users in the trading market.
 
