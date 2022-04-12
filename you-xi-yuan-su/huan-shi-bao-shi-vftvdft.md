@@ -12,7 +12,7 @@ In Phase2, the user can trade VDFT in the gem trading system, the system will ch
 
 <summary>VSDTE-Energy gem</summary>
 
-VSFT的能量值在基础值上的增量由VSDTE决定，用户可以通过在VSFT上镶嵌VSDTE以增加VSFT的能量，以延长该VSFT每日获取收益的有效时长。
+The increment of VSFT ' s energy value on the base value is determined by **VSDTE**. Users can increase the energy of VSFT by inserting **VSDTE** on the VSFT to extend the effective time for the VSFT to obtain revenue daily.
 
 </details>
 
@@ -20,7 +20,7 @@ VSFT的能量值在基础值上的增量由VSDTE决定，用户可以通过在VS
 
 <summary>VSDTL-Lucky gems</summary>
 
-VSFT的幸运值在基础值上的增量由VSDTL决定，用户可以通过在VSFT上镶嵌VSDTL以增加VSFT的幸运值，以增大该VSFT每日掉落幸运宝箱的有效概率。
+The increment of the lucky value of VSFT on the basis value is determined by **VSDTL**. Users can increase the lucky value of VSFT by embedding **VSDTL** on VSFT to increase the effective probability of the VSFT falling into the lucky treasure box every day.
 
 </details>
 
@@ -28,7 +28,7 @@ VSFT的幸运值在基础值上的增量由VSDTL决定，用户可以通过在VS
 
 <summary>VSDTC-Durable gems</summary>
 
-VSFT的耐久度在基础值上的增量由VSDTC决定，用户可以通过在VSFT上镶嵌VSDTC以增加VSFT的耐久度，以增大VSFT的时间耐用性并减少VSFT的维护费用。
+The increment of VSFT durability on the basis value is determined by **VSDTC**. Users can increase the durability of VSFT by inserting **VSDTC** on VSFT to increase the time durability of VSFT and reduce the maintenance cost of VSFT.
 
 </details>
 
