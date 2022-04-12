@@ -1,47 +1,47 @@
-# 幻视播放器VFT—VSFT
+# 🎬 MetaVision Player VFT-VSFT
 
-### VSFT的获得方法
+### **Method of Obtaining VSFT**
 
-**VSFT**在幻视正式上线前，用户可以通过**VSFT**的早期认购进行获得。
+Before **VSFT** is officially launched, users can obtain **VSFT** through early subscription.
 
-在幻视上线Phase1，用户可以通过**VIT+BUSD**组合的方式从幻视系统中购买**VSFT**。同时，幻视将会开放**VSFT**的交易系统，用户可以在交易市场中向其余用户使用**VIT**购买**VSFT**。
+On Phase1 online, users can purchase **VSFT** from the **MetaVision** system by **VIT + BUSD** combination. At the same time, illusion will open the trading system of **VSFT**, and users can use **VIT** to purchase **VSFT** from their users in the trading market.
 
-在幻视上线Phase2，用户可以通过两个符合等级条件的**VSFT**铸造子代**VSFT**，子代**VSFT**的属性由母代与随机性共同决定。一个母代**VSFT**最多可以铸造7次子代的**VSFT**，并且在每一次铸造的间隔有一定的冷却时间。每次铸造需要**VIT+BUSD**进行迭代，同时子代**VSFT**也能铸造下一代**VSFT**。所需代币**VIT+BUSD**依据已经铸造次数决定。参于铸造的每个播放器都有 若干小时的冷却时间。注意必须是不同阵营的**VSFT**才可以繁育下一代，同时有概率变异出高稀有度**VSFT**，**也有概率退化**。
+On Phase2, users can cast the offspring **VSFT** through two **VSFT** that meet the grade conditions. The attributes of the offspring **VSFT** are jointly determined by the parent generation and randomness. A parent **VSFT** can cast up to seven generations of **VSFT**, and there is a certain cooling time at the interval of each casting. Each casting requires **VIT + BUSD** iteration, while the offspring **VSFT** can also cast the next generation of **VSFT**. The required coin **VIT + BUSD** is determined by the casting times. Each player involved in casting has a cooling time of several hours. Attention must be paid to the **VSFT** of different camps in order to breed the next generation. At the same time, there is a probability of mutation of high rare **VSFT**, and there is a probability of degradation.
 
-### VSFT的属性
+### **Attributes of VSFT**
 
-#### VSFT的效率
+#### Efficiency of **VSFT**
 
-用户在进行视频观看收益模式时需要使用**VSFT**，**VSFT**的效率决定了用户在基础**VIT/VGT**收益外还能获得多少额外的**VIT/VGT**。**VSFT**的效率越高，用户在单位能量消耗下可获得的**VIT/VGT**越多。
+The efficiency of **VSFT** determines how much extra **VIT / VGT** can be obtained by users in addition to the basic **VIT / VGT**. The higher the efficiency of VSFT, the more **VIT / VGT** users can get per unit energy consumption.
 
-#### VSFT的幸运值
+Lucky value of **VSFT**&#x20;
 
-用户在视频观看收益模式时有可能获得神秘宝箱（获得方法见神秘宝箱介绍）。**VSFT**的幸运值决定了神秘宝箱在**VSFT**宝箱插槽中出现的频率。
+Users may get the mysterious treasure box when watching the revenue mode ( see the mysterious treasure box introduction ). The lucky value of **VSFT** determines the frequency of mysteries in the VSFT box slot.
 
-另外，即使**VSFT**的持有者将其播放器出租给其余用户（出租规则见下文），**VSFT**的持有者仍然能获得该**VSFT**在收益模式下获得的神秘宝箱，而租借者不享有神秘宝箱的收益。对于计划将大部分**VSFT**出租给市场的用户而言，幸运值的大小是一个重要且理想的属性。
+Moreover, even if the holder of the **VSFT** rents its player to its users ( see below for rental rules ), the holder of the **VSFT** can still obtain the mysterious treasure box that the **VSFT** obtains in the revenue mode, while the tenant does not enjoy the mysterious treasure box. For users who plan to lease most **VSFT** to the market, the magnitude of lucky value is an important and ideal attribute.
 
-#### VSFT的耐久度
+#### **Durability of VSFT**
 
-在收益模式下，**VSFT**的耐久度决定了其耐用性,更高的耐久度性意味着更好的耐用性,从而减少了维修，即使玩家最终修理了他们的**VSFT**，也将支付更少的修理费用。当**VSFT**的耐用性分别低于 **50%** 和 **20%** 时,播放器会受到“磨损”的惩罚,这会使**VSFT**的效率分别降低到其完整值的 **90%** 和 **10%**。
+In the revenue model, the durability of **VSFT** determines its durability. A higher durability means a better durability, thereby reducing maintenance. Even if players eventually repair their **VSFT**, they will also pay less repair costs. When the durability of **VSFT** is less than 50 % and 20 % respectively, the player is punished by wear, which reduces the efficiency of **VSFT** to 90 % and 10 % of its full value respectively.
 
-用户对于**VSFT**耐用性的修复是通过支付**VIT+BUSD**而完成的。提高耐久度与修复耐用性具体的花费如下表：
+The repair of **VSFT** durability is completed by paying **VIT**. Specific costs to improve durability and repair durability are shown below :
 
-| 标题 | 耐久度 | 耐用性 |
-| -- | --- | --- |
-|    |     |     |
-|    |     |     |
-|    |     |     |
+| Title | Endurance | Durability |
+| ----- | --------- | ---------- |
+|       |           |            |
+|       |           |            |
+|       |           |            |
 
-#### VSFT的品质
+#### **Quality of VSFT**&#x20;
 
-**VSFT**的品质总共分为5级，即（普通 稀有 史诗 传说 神话）5个级别。用户在铸造**VSFT**时，通过盲盒的形式铸造，**有概率获得超稀有度创世VSFT**。创世**VSFT**数量有限。当创世**VSFT**铸造完毕时，子代**VSFT**只能通过用户繁育产生。必须注意的是，即使是同一级别的**VSFT**，在铸造生成时仍然存在效率、幸运值、耐久度的差异性。这些差异性在统计学上是符合高斯分布的。
+The quality of **VSFT** is divided into five levels, namely ( ordinary rare epic myth ) five levels. When users are casting **VSFT**, they have the probability to obtain ultra-rarity creation **VSFT** through blind box casting. The number of Genesis **VSFT** is limited. When Genesis **VSFT** is completed, the offspring **VSFT** can only be generated through user breeding. It should be noted that even at the same level of **VSFT**, there are still differences in efficiency, lucky value and durability during casting generation. These differences are statistically in line with Gaussian distribution.
 
-#### VSFT的等级
+#### **Grade of VSFT**
 
-**VSFT**的等级总共分为1-30级，在第1-27级，用户通过**支付VIT可以将其VSFT的等级提升**。用户也可以选择使用该**VSFT**以累计经验值，每个播放器每天可获得的确定经验值。尽管用户可以通过消耗VIT来跳跃升级时间，但每个级别的升级仍然需要一天的冷却时间而完成。对于第28-30级的跃升，用户需要同时支付**VIT+VGT**而完成。
+The level of **VSFT** is divided into1-30levels. In the first-27 levels, users can improve the level of **VSFT** by paying **VIT**. Users can also choose to use the **VSFT** to accumulate experience value, and each player can obtain a certain experience value every day. Although users can skip the upgrade time by consuming **VIT**, each level of upgrade still needs a day of cooling time to complete. For Level 28-30 jumps, users need to pay **VIT + VGT** simultaneously.
 
-_**播放器升级：**_
+**Player upgrade :**
 
-当播放器升级到28级时能对应产出一定量的代币VGT，当播放器升级到29级时能对应产出较28级更多的代币VGT，**当播放器升级到30级时能对应产出最多的代币VGT**。
+When the player upgrades to 28 level, it can output a certain amount of **VGT**. When the player upgrades to 29 level, it can output more **VGT** than 28 level. When the player upgrades to 30 level, it can output the most **VGT**.
 
-不同等级区间的VSFT具有不同的触发事件，用户需要将VSFT提升至里程碑处才可触发级别事件。**升级后可以增加VSFT的每日基础VIT收益。**
+**VSFT** in different levels have different trigger events. Users need to raise **VSFT** to milestones to trigger level events. Upgrades can increase **VSFT** **** daily base **VIT** earnings.

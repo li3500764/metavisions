@@ -1,33 +1,49 @@
 # VGT
 
-### 供应
+### Supply
 
-* VGT 在代币生成活动中铸造，总共铸造了 9,000,000,000。
+VGT was cast in the coin generation activity ( TGE ), and a total of 9,000,000,000 was cast.
 
-### 归属机制
+### Attribution mechanism
 
-* VGT总量的 30% 将通过 watch\&earn 和治理参与分配给用户。为了保证MetaVision项目的寿命，VGT的总发布量每三年减半。
+30 % of the total VGT will be allocated to users through watch & earn and governance. In order to ensure the life of MetaVision project, the total distribution of VGT is reduced by half every three years.
 
-### 盈利机制
+### Profit Mechanism
 
-* 等级要求：当用户的播放器达到最高等级时，用户开始获得VGT。
+**Level requirements :** VGT income is only applicable to users when the player reaches the highest level.
 
-### 投票机制
+**Assignment rule :** In each income cycle, the total income obtained by **VGT** is fixed, so the distribution income obtained by players through **VGT** holdings will be divided by holding ratio. For users eligible for **VGT**, the number of **VGT** acquired per day is the percentage of **VIT** acquired.
 
-* 质押VGT的用户也将享有提交项目提案的权力，由团队资深分析师研究，研究通过将会提交给VGT质押用户进行投票。
+**Half mechanism :** Every day, a certain number of **VGT** will be unlocked to earn. The daily release of VGT follows the exponential decay model. On the first day of the third year, the daily unlocked VGT is halved compared with the profitable VGT.&#x20;
 
-### 投资机制
+**Schrodinger Quantum Mechanics :** '_Everything is unknown before you open the box'_
 
-* 当DAO金库资金满足25000u 同时满足已有项目提案通过，将会触动合约机制，自动提取DAO金库25000u资金，用于提案投资.
-* 当被投资项目释放代币，被投资方将会卖出预先设定好的项目代币转换为VGT代币，其中45%将会进入LP池子，50%将会给与质押VGT用户 最后5%将会用于奖励项目提出者.
-* 我们每两周将会进行一次项目投票 由用户决定是否进行投资
+The system continuously increases the randomness for the user ' s **VGT** income, making the income unpredictable. In order to avoid any inference on income, the settlement of **VGT** will be completed within a few minutes.
 
-### VGT质押规则
+**Bitcoin Technician :** VGT ' s percapita income is proportional, just like **Bitcoin** and the difficult bombs designed by **Ethereum**, but will be **settled immediately**. The more users earn **VGT** at a given time, the less **VGT** income per capita. And vice versa. Comfort mechanics : the higher the comfort, the higher the income. The **VGT** income formula will be published after income is enabled in the application.
 
-* 对于质押VGT的用户将会享有投票权 权重按照质押比例分配
+**Comfort mechanics :** the higher the comfort, the higher the income. The **VGT** income formula will be published after income is enabled in the application.
 
-### VGT交易机制
+**VGT combustion mechanism ( destruction ) :** once Twitter followers reach 200,000, it will be shown.
 
-* 每笔VGT交易收取3%的交易税 其中1%进入DAO金库，1%进入LP池子，1%进入营销金库
+**VGT pledge rule :** once the Twitter followers reach200,000, it will show.
 
-###
+### Voting Mechanism
+
+**VGT pledged users** will also enjoy the right to submit project proposals, research by senior team analysts, research will be submitted to VGT pledged users to vote.
+
+### Investment Mechanism&#x20;
+
+When DAO funds meet 25000u and existing project proposals pass, it will trigger the contract mechanism, automatically extract DAO funds 25000u for proposal investment.&#x20;
+
+When the invested project releases the currency, the invested party will sell the pre-set project currency into VGT currency, of which 45 % will enter the LP pool, 50 % will be pledged to VGT users the last 5 % will be used to reward project sponsors.
+
+We will conduct a project vote every two weeks, the user decides whether to invest.
+
+### VGT pledge rule
+
+For users who pledge VGT, the weight of voting rights will be distributed according to the pledge proportion.
+
+### VGT Trading Mechanism
+
+Each VGT transaction receives 3 % transaction tax, of which 1 % enters the DAO treasury, 1 % enters the LP pool, and 1 % enters the marketing treasury.

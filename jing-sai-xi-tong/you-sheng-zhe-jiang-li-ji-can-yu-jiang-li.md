@@ -1,3 +1,3 @@
-# 优胜者奖励及参与奖励
+# 💯 The Winner Reward
 
-PVP周期内的创作用户奖励模式的排行榜前列用户将获得VGT 奖励（VRT的奖励为博主享有并可以按照前述规则兑换VIT），这些额外奖励来自未能完成创作用户奖励模式的用户支付的注册费。
+The top users in the PVP cycle will receive **VGT** awards ( **VRT** awards are enjoyed by bloggers and can be converted to **VIT** according to the above rules ). These additional awards come from the registration fees paid by users who fail to complete the creation user award model.

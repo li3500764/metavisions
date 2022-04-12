@@ -1,21 +1,21 @@
 ---
-description: 在去中心化的今天，打造全球web3用户共同的视频娱乐生活社区，所见即所得
+description: >-
+  Building a common video entertainment community for web3 users around the
+  world today is what you see and what you get.
 cover: .gitbook/assets/5909eff0d8b59ed65d68dd4c43eeb35.jpg
 coverY: 0
 ---
 
-# 概述
+# 📺 Overview
 
-幻视是一款致力于在web3环境下给予用户创新的视频娱乐体验的应用，内置Game-Fi和Social-Fi元素。对大多数人来说，幻视是建立在日常娱乐活动的基础上的——浏览视频，我们是第一个有效地将一个功能性的watch\&earn概念付诸实践的项目。 幻视使得用户在日常的娱乐中可以获取其自身所带来的流量价值。用户同时可以作为视频创作的提供者将其创作进行全球化推广并获得以游戏货币，这些货币可以在游戏中使用，也可以兑换成现金盈利。 流量、用户全球化、收益统一化是一个相辅相成的三角形。在去中心化的今天，幻视致力于打造全球web3用户共同的视频娱乐生活社区，所见即所得，将人们连接到web3.0，同时依靠其它Social-Fi方面建立一个长期的平台，培养用户创作web3.0内容。
-
-
+**MetaVision** is an application dedicated to providing users with innovative video entertainment experience in the web3 environment, with Game-Fi and Social-Fi elements built in. For most people, **MetaVision** is based on daily entertainment activities — browsing videos. We are the first project to effectively put a functional concept of watch & profit into practice. Fantasy enables users to obtain the flow value brought by themselves in daily entertainment. Users can also serve as providers of video creation to promote their creation globally and obtain game currency, which can be used in games or converted into cash profits. Traffic, user globalization, revenue unification is a complementary triangle. In today ' s decentralized, **MetaVision** is committed to creating a global web3 users common video entertainment community, what you see is what you get, will connect people to web3.0, while relying on other social-Fi aspects to establish a long-term platform to cultivate users to create web3.0 content
 
 **Note: MetaVision is currently under Public Beta Phase, so contents in the Whitepaper could be changed in the future.**
 
-### **定义**
+### Definition
 
-打赏代币：VRT
+Reward token : VRT
 
-收益代币：VIT
+Revenue token : VIT
 
-治理代币：VGT
+Governance token : VGT

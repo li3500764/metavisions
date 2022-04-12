@@ -1,3 +1,3 @@
-# VFT交易市场系统
+# VFT Trading Market System
 
-VFT交易市场分为**VSFT、VDFT、VBFT、VGFT的交易**。针对不同VFT的交易，幻视都会收取不同的合理的交易手续费以支持幻视的未来良性发展与价值支撑。交易市场是用户与用户之间互相交易的安全平台。当幻视Phase1顺利展开并打到预期目标时，幻视官方将不会提供任何VFT以供给用户，用户的任何交易都必须在用户之间进行完成。**总体VFT的交易在幻视官方关闭官方提供VFT渠道后是通缩的。**
+**VFT** trading market is divided into **VSFT, VDFT, VBFT, VGFT** transactions. For different **VFT** transactions, **MetaVision** will charge different reasonable transaction fees to support the future benign development and value support of **MetaVision**. Trading market is a security platform for users to trade with each other. When Phase1 is successfully launched and reaches the expected goal, the **MetaVision** authority will not provide any VFT for users, and any transaction between users must be completed. **The overall VFT transaction is deflationary after the official closure of the official VFT channel.**

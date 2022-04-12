@@ -1,10 +1,11 @@
 # VIT
 
-### （1）供应
+### Supply
 
-* **无限供应，仅用户在收益模式下浏览视频获得或VRT兑换获得。**
+Unlimited supply, only users in revenue mode browse video access or **VRT** conversion access.
 
-### （2）盈利机制
+### Profit Mechanism
 
-* **获取代币**：用户在日常使用幻视时，可以选择收益模式以通过视频浏览的行为赚取代币。用户只需要按下START按钮即可启动收益模式并选择VFT并进行视频的观看。如果他们没有这样做，系统会自动为他们选择并打开默认VFT。一旦当日的观看能量耗尽，收益模式将停止，用户将不再因为当日的视频观看获得VIT。在观看的过程中，用户可以手动选择停止收益模式，并在具有能量值时重新打开。**在非收益模式下，幻视仍然对用户提供视频内容入口，只是用户不再享有收益的权益。**
-* **盈利因素**：他们的收入取决于两个因素：观看时长与观看时所选用的播放器（即VFT）稀有度/属性。
+**Acquisition of tokens** : Users can choose revenue mode to earn tokens through video browsing behavior when they use MetaVision in daily life. Users only need to press the START button to start the revenue mode and select the **VFT** and watch the video. If they do not, the system automatically selects and opens the default **VFT** for them. Once the watching energy of the day is exhausted, the revenue mode will stop, and the user will no longer obtain **VIT** because of the video watching of the day. During viewing, the user can manually select the stop income mode and reopen it when it has an energy value. **In non-profit mode, MetaVision still provides users with video content entry, but users no longer enjoy the benefits.**
+
+**Profit factor :** Their income depends on two factors : **watching time** and **watching the selected player ( VFT ) rareness / attributes**.

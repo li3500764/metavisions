@@ -1,7 +1,7 @@
-# 其它系统
+# ⏭ Other Systems
 
-下是本节中的文章：
+Here are the articles in this section :
 
-### [通知系统](tong-zhi-xi-tong.md)
+### [Notification System](tong-zhi-xi-tong.md)
 
-### [社交奖励系统](she-jiao-jiang-li-xi-tong.md)
+### [Social Reward System](she-jiao-jiang-li-xi-tong.md)

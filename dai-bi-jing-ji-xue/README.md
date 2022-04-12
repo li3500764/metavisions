@@ -1,6 +1,6 @@
-# 💰 代币经济学
+# 💰 Token Economy
 
-下是本节中的文章：
+Here are the articles in this section :
 
 ### [Token **VRT**](vrt.md)
 

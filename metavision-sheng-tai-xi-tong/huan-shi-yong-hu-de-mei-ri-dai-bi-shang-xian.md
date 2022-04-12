@@ -1,3 +1,3 @@
-# 幻视用户的每日代币上限
+# 💵 Token System
 
-VIT与VGT代币获得上限是由幻视用户每日能量上限而决定的，更进一步说，是由每日有效收益时间而决定的。
+The ceiling for **VIT** and **VGT** tokens is determined by the MetaVision of the user’s daily energy ceiling, and further by the daily effective earnings time.

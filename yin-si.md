@@ -1,3 +1,3 @@
-# 隐私
+# 🔏 Privacy
 
-幻视没有兴趣从用户的数据中获利；幻视严格遵守Google和Apple的隐私要求。
+MetaVision has no interest in profiting from users' data; MetaVision strictly follows the Google and Apple Privacy requirements.

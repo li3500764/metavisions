@@ -1,3 +1,3 @@
-# 去中心化钱包
+# 💲 Decentralized Wallet
 
-待开发中
+To be developed

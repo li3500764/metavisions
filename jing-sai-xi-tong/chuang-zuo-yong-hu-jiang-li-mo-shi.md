@@ -1,3 +1,3 @@
-# 创作用户奖励模式
+# ✍ Creative User Reward Mode
 
-在创作用户奖励模式中，普通用户需要注册为创作用户并同时提交视频（创作用户一次只能提交一副作品）。**创作用户奖励设有周赛和月赛，获胜者将会获得对应数量的VIT奖励。**
+In the creative user reward mode, ordinary users need to register as creative users and submit video at the same time ( creative users can only submit one work at a time ). There are weekly and monthly awards for creative users, and **the winner will receive a corresponding number of VIT awards**.

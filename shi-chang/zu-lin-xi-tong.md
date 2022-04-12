@@ -1,5 +1,5 @@
-# 租赁系统
+# Rental System
 
-每个用户在加入项目时都有一个默认的信用评级。市场提供智能租用/租赁系统。租用者和VFT拥有者可以使用一键租用/租赁功能按钮立即租用或租赁VFT。
+Each user has a default credit rating when joining the project. The market provides intelligent rental / leasing system. Tenants and **VFT** owners can rent or lease **VFT** immediately by using a button of rent / lease function.
 
-在市场上租用VFT不会让租用者付出任何代价。租客使用一键租借功能，从商城中随机选择一款“出租”VFT；承租人需要同意VFT所有者的条款，然后才能成为具有约束力的协议。租赁协议期限为 商定时间，VFT所有者指定商定时间内需要的VIT获得最低数量。**如果承租人未能履行租赁协议，系统将从其信用评级中扣除相应评分**。如果租户履行了租赁协，则每次完成收益模式时，智能合约将根据租赁协议分配收益。承租人和出租人的收入分配为固定比例，由幻视系统永恒不变给定。每次成功的租赁协议，系统将奖励承租人信用积分。
+Rental of **VFT** in the market will not cost any renters. Tenants use the one-click rental function to randomly select a “ rental ” VFT from the mall ; the lessee needs to agree to the terms of the **VFT** owner before becoming a binding agreement. The lease agreement period is the agreed time, **VFT** owners specify the minimum number of VITs required within the agreed time. **If the lessee fails to perform the lease agreement, the system will deduct the corresponding score from its credit rating**. If the tenants perform the lease agreement, each time the revenue model is completed, the smart contract allocates revenue according to the lease agreement. The income distribution of the lessee and the lessor is a fixed proportion, given by the illusion system forever. Each successful lease agreement will reward the lessee credit points.

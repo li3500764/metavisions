@@ -1,15 +1,15 @@
-# 游戏元素
+# 🎮 Elements of watch to earn
 
-以下是本节中的文章：
+Here are the articles in this section :
 
-### [MetaVision游戏模式](metavision-you-xi-mo-shi.md)
+### [Modes](metavision-you-xi-mo-shi.md)
 
-### [幻视播放器VFT—VSFT](huan-shi-bo-fang-qi-vftvsft.md)
+### ****[**MetaVision** Player VFT-VSFT](huan-shi-bo-fang-qi-vftvsft.md)
 
-### [幻视宝石VFT—VDFT](huan-shi-bao-shi-vftvdft.md)
+### [MetaVision Gem VFT-VDFT](huan-shi-bao-shi-vftvdft.md)
 
-### [幻视宝箱VFT—VBFT](huan-shi-bao-xiang-vftvbft.md)
+### [MetaVision Box VFT—VBFT](huan-shi-bao-xiang-vftvbft.md)
 
-### [幻视徽章VFT—VBDT](huan-shi-hui-zhang-vftvbdt.md)
+### [MetaVision Badge VFT-VBDT](huan-shi-hui-zhang-vftvbdt.md)
 
-### [幻视IGO投资者VFT—VGFT](huan-shi-igo-tou-zi-zhe-vftvgft.md)
+### [MetaVision IGO Investors VFT—VGFT](huan-shi-igo-tou-zi-zhe-vftvgft.md)

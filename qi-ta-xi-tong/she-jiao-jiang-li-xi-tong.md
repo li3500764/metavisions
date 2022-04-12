@@ -1,15 +1,15 @@
-# 社交奖励系统
+# 🧧 Social Reward System
 
-**社交奖励系统分为用户邀请奖励、好友互动奖励、公会奖励。**
+Social reward system is divided into **user invitation reward, friends interaction reward, guild reward**.
 
-#### 用户邀请奖励
+#### **User invitation rewar**
 
-被邀请的用户可以获得第一个VSFT盲盒mint的折扣优惠 ，同时邀请者每达到邀请若干定量数量的用户时**免费获得mintVSFT盲盒一次的机会**。
+Invited users can get the discount of the first VSFT blind box mint, and at the same time, **the invitee can get the opportunity of mint VSFT blind box once for free when reaching a number of quantitative users**.
 
-#### 好友互动奖励
+#### Friends interaction reward
 
-互为联动，观看好友分享的视频，可以获得亲密度，达到一定程度的亲密度可以获得高品质VBFT， 每日分享次数有最大值受限 ，**每月一个好友只能最大值范围限制内的宝箱**。
+Linking with each other, watching the video shared by friends can obtain intimacy, reaching a certain degree of intimacy can obtain high-quality **VBFT**, and the number of daily sharing is limited, and a friend can **only be a treasure box within the maximum range every month**.
 
-#### 公会机制（粉丝制度）
+#### Association mechanism ( fan system )
 
-创作用户可以成立公会，打造他们自己的粉丝群体，**一对一通过区块链技术绑定**。
+Creative users can form guilds to build their own fan base, **one-on-one through blockchain technology.**
