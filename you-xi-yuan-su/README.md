@@ -4,7 +4,7 @@ Here are the articles in this section :
 
 ### [Modes](metavision-you-xi-mo-shi.md)
 
-### [**MetaVision** Player VFT-VSFT](huan-shi-bo-fang-qi-vftvsft.md)
+### ****[**MetaVision** Player VFT-VSFT](huan-shi-bo-fang-qi-vftvsft.md)
 
 ### [MetaVision Gem VFT-VDFT](huan-shi-bao-shi-vftvdft.md)
 
