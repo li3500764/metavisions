@@ -1,6 +1,6 @@
 # Table of contents
 
-* [概述](README.md)
+* [Background](README.md)
   * [幻视诞生的背景](gai-shu/huan-shi-dan-sheng-de-bei-jing.md)
   * [介绍](gai-shu/jie-shao.md)
 * [入门指南](ru-men-zhi-nan.md)
