@@ -1,24 +1,9 @@
-# 入门指南
+# Twshibainu Ecosystem
 
-首先，用户需要下载幻视应用程序
-
-**1.下载幻视app**
-
-从 linktr.ee/metavisionapp下载
-
-**2.注册幻视**
-
-在您各自的设备上访问该应用程序后，您将能够使用您的电子邮件地址注册幻视。您将收到一个 验证码，您需要输入该验证码才能进入应用程序
-
-**3.创建一个新的钱包**
-
-点击屏幕右上角的钱包图标。 该应用程序将生成一个12字的秘密短语。如果您御载应用程序或忘记密码，这将用于恢复您的钱 包。**重要**-请注意此短语并将其保存在安全的地方（将其物理写下来并将其存储在只有您可以访问的 地方。)
-
-**4.将BNB转入您的应用内钱包**
-
-将BNB转入应用内钱包以在市场上购买幻视播放器VSFT，并始终在您的钱包帐户中**保留一些BNB**作为 gas。
-
-**5.购买幻视播放器VSFT**
-
-在幻视上线Phase1，用户可以通过VIT+BUSD组合的方式从幻视系统中购买VSFT。同时，幻视将会开放VSFT的交易系统，用户可以在交易市场中向其余用户使用VIT购买VSFT。
-
+1. The video and text user device on both **IOS and ANDROID platforms**.
+2. **Tweet to Earn** technology based on blockchain.
+3. **Defi** element in order to increase reward and holding benefit/right.
+4. **Socialfi ecosystem**: content and experience of users are always the right paths for any project that aims to keep their frequent users. We have already connected one platform (i.e., **Twitter**) and will further join **Facebook** to provide 100% similar content and experience as the original platform can provide. **Twshibainu** also makes an effort to build its own-brand **socialfi platform**, which focuses more on users' production. We try to evoke any resource to create a famous and attractive brand. Users can use **Twshibainu's socialfi ecosystem** to meet their daily **tweeting** needs and gain their deserved reward.
+5. **UGC ecosystem**: UGC derives from Web2.0, which means users can use the internet to share their original creations or provide them to other potential users.
+6. **Live broadcast ecosystem**: users can choose Twshibainu to share and show their lives or any daily entertainment (such as singing and dancing) and further open the Space interaction mode.
+7. After publishing tweets, users can earn **$Twshib** token. The daily benefit is calculated based on a **5% amount of token holds**.

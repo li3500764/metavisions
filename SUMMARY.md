@@ -1,11 +1,9 @@
 # Table of contents
 
 * [Background](README.md)
-  * [幻视诞生的背景](gai-shu/huan-shi-dan-sheng-de-bei-jing.md)
-  * [介绍](gai-shu/jie-shao.md)
-* [入门指南](ru-men-zhi-nan.md)
-* [游戏元素](you-xi-yuan-su/README.md)
-  * [MetaVision游戏模式](you-xi-yuan-su/metavision-you-xi-mo-shi.md)
+* [Twshibainu Ecosystem](ru-men-zhi-nan.md)
+* [What makes Twshibainu differ](you-xi-yuan-su/README.md)
+  * [What makes Twshibainu differ](you-xi-yuan-su/metavision-you-xi-mo-shi.md)
   * [幻视播放器VFT—VSFT](you-xi-yuan-su/huan-shi-bo-fang-qi-vftvsft.md)
   * [幻视宝石VFT—VDFT](you-xi-yuan-su/huan-shi-bao-shi-vftvdft.md)
   * [幻视徽章VFT—VBDT](you-xi-yuan-su/huan-shi-hui-zhang-vftvbdt.md)
