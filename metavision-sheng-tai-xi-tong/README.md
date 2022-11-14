@@ -1,9 +1,9 @@
-# ▶ MetaVision ecosystem
+# MetaVision生态系统
 
-Here are the articles in this section :
+下是本节中的文章：
 
-### [Energy System](huan-shi-yong-hu-de-mei-ri-neng-liang-shang-xian.md)
+### [幻视用户的每日能量上限](huan-shi-yong-hu-de-mei-ri-neng-liang-shang-xian.md)
 
-### [Token System](huan-shi-yong-hu-de-mei-ri-dai-bi-shang-xian.md)
+### [幻视用户的每日代币上限](huan-shi-yong-hu-de-mei-ri-dai-bi-shang-xian.md)
 
-### [Task system](ren-wu-xi-tong.md)
+### [任务系统](ren-wu-xi-tong.md)

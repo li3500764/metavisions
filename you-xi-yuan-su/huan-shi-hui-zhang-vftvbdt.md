@@ -1,7 +1,7 @@
-# 🔰 MetaVision Badge VFT-VBDT
+# 幻视徽章VFT—VBDT
 
-The classification of **VBDT** is divided into achievement **VBDT** and income **VBDT**. **Each VSFT can only be equipped with one VBDT.**
+VBDT的分类分为成就VBDT与收益VBDT。**每个VSFT只可以装备一个VBDT。**
 
-**VBDT**  empowerment and transaction will be opened in the illusion phase 2 rather than the initial phase 1. In Phase2 phase, users can obtain more badges by completing tasks with different degrees of difficulty given by the system.
+VBDT的赋能与交易将在幻视Phase2阶段而不是初始Phase1阶段打开。在Phase2阶段，用户完成系统内赋予的具有不同困难程度的任务，即可获得更多的徽章。
 
-The badge will be used to provide benefits for behaviour within the system, including but not limited to additional energy, maximum revenue caps, priority rental locations, and reduced cost of casting new players.
+徽章将被用于提供系统内行为的福利，包括但不限于额外的能量、收益最大上限、优先租赁位置、降低铸造新播放器成本等。

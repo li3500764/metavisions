@@ -1,3 +1,3 @@
-# 🔋 Energy System
+# 幻视用户的每日能量上限
 
-Initial users’daily energy online default is constant. **They can increase the daily energy ceiling by increasing the number of VFT or the number of VDFT** **corresponding to each VFT**. The on-line energy enhancement is completely determined by the rules within the system and is not topped. When and only when the user opens the revenue mode, energy will be consumed. In revenue mode, each energy value is equivalent to a quantitative effective viewing time unit.
+初始用户的每日能量上线缺省值为常量，他们可以通过**增加VFT的数量或增加每个VFT对应的VDFT数量而提升每日能量上限**。能量提升的上线完全由系统内规则决定，上不封顶。当且仅当用户打开收益模式，能量即会被消耗。在收益模式下,每个能量值相当于定量的有效观看时间单位。

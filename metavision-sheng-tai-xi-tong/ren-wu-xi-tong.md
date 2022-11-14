@@ -1,3 +1,3 @@
-# 📚 Task system
+# 任务系统
 
-The task system will be open in Phase 2 to enhance user viscosity.
+任务系统将在Phase2开放，旨在于提升用户对于系统的黏度。

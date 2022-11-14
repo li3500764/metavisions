@@ -1,13 +1,15 @@
 # VRT
 
-### Supply and acquisition
 
-**VRT** is a non-uplink currency in the MetaVision system, unlimited supply ; ordinary users receive VRT through daily check-in. In addition to the daily signing of the **VRT**, the creation users can also **obtain the VRT through the channels through which their creation videos are appreciated by ordinary users**.
 
-### Exchange Mechanism
+#### （1）供应和收益
 
-The **VRT** tokens obtained by all users through the sign-in channel can be converted into the **money-VIT** with the same proportion in the system, and the **VIT** can also be converted into the **VRT** with the same proportion for internal consumption in the system. The **VRT** coins obtained by the creative users through the reward channel can be directly converted into digital stable coins ( such as USDT, and its reward is directly obtained from the system reward treasury ), and the conversion ratio is determined by the number of VRT coins received and the user point praise.用户
+* VRT是幻视系统内的非上链代币，无限供应；普通用户对于VRT的获得，通过每日签到进行领取。创作用户对于VRT的获得除却每日签到外，**还可以由其创作视频被普通用户所打赏的渠道进行获得**。
 
-### Rules
+#### （**2**）兑换机制
 
-You need to have at least one **VFT** player to use this feature to avoid malicious multi-account access to VRT bonus arbitrage.
+* 所有用户通过签到渠道获得的VRT代币可以在系统内进行同比例转化为幻视收益代币—VIT，同样VIT也可以同比例转化为VRT进行系统内部消费。创作用户通过打赏渠道所获得的VRT代币可直接转化为数字稳定币（如USDT等，且其奖励是从系统奖励金库中直接获得），其转化比例通过收到的VRT代币数与用户点赞数共同决定。
+
+#### （3）规则
+
+* **需要拥有至少一个VFT播放器才可以使用此功能，避免被恶意多账号获取代币VRT打赏套利**

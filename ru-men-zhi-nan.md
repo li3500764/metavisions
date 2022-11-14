@@ -1,24 +1,24 @@
-# 🚪 Getting Started
+# 入门指南
 
-To start, users need to download the **MetaVision app**
+首先，用户需要下载幻视应用程序
 
-1\. Download the **MetaVision** **app**
+**1.下载幻视app**
 
-Download link from Apple store, Android official download
+从 linktr.ee/metavisionapp下载
 
-2\. Registered **MetaVision**&#x20;
+**2.注册幻视**
 
-After accessing the application on your respective devices, you will be able to register a **MetaVision** using your email address. You will receive a authentication code that you need to enter to the application
+在您各自的设备上访问该应用程序后，您将能够使用您的电子邮件地址注册幻视。您将收到一个 验证码，您需要输入该验证码才能进入应用程序
 
-3\. Wallet
+**3.创建一个新的钱包**
 
-The **MetaVision** system provides users with wallets in the system that store the ecological token of **MetaVision** . Users can purchase related tokens on the decentralised platform and store them in the **MetaVision**  wallet
+点击屏幕右上角的钱包图标。 该应用程序将生成一个12字的秘密短语。如果您御载应用程序或忘记密码，这将用于恢复您的钱 包。**重要**-请注意此短语并将其保存在安全的地方（将其物理写下来并将其存储在只有您可以访问的 地方。)
 
-4.The purchase of substitute token&#x20;
+**4.将BNB转入您的应用内钱包**
 
-Using VIT + BUSD to purchase, users prepare BUSD and purchase BUSD in decentralised dex, and prepare for initial consumption within **MetaVision** .
+将BNB转入应用内钱包以在市场上购买幻视播放器VSFT，并始终在您的钱包帐户中**保留一些BNB**作为 gas。
 
-5\. Purchase of vision player **VSFT**
+**5.购买幻视播放器VSFT**
 
-Users can use BUSD to pre-purchase intra-visual **VSFT** before the opening of the **MetaVision** . After the opening of the **MetaVision** , they can purchase VSFT from the **MetaVision**  system by **VIT + BUSD** combination. At the same time, the **MetaVision**  will open the trading system of **VSFT**. Users can purchase **VSFT** from **VIT** to their users in the trading market.
+在幻视上线Phase1，用户可以通过VIT+BUSD组合的方式从幻视系统中购买VSFT。同时，幻视将会开放VSFT的交易系统，用户可以在交易市场中向其余用户使用VIT购买VSFT。
 

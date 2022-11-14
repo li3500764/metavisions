@@ -1,3 +1,3 @@
-# 🏧 MetaVision IGO InvestorsVFT—VGFT
+# 幻视IGO投资者VFT—VGFT
 
-**VGFT is an investor-specific open NFT for the early investment of VIT tokens in the IGO phase of the vision project. IGO investors** enjoy specific **VGFT** corresponding to their investment amounts. After **VGFT** is online in the illusion project, the VIT coins contained in it will be fully released, and users can choose to extract **VIT**. The extracted **VIT** will reduce the release of **VIT** contained in **VGFT**, and **VGFT** can trade within the illusion. At the same time, the corresponding trading market will also be opened synchronously, and users can hold more than one **VGFT**. When the illusion is online, users can adopt different trading strategies for different **VGFT** they hold.
+**VGFT是面向幻视项目IGO阶段对幻视VIT代币进行早期投资的投资者专向开放的NFT**。IGO投资者享有其投资金额所对应的特异性的VGFT。VGFT的功能为每日线性释放VIT代币。同时对应的交易市场也会同步开启，用户可以持有大于一个的VGFT。当幻视上线后，用户对于所持有的不同VGFT可以采用不同的交易策略。

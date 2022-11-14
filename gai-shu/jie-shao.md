@@ -1,19 +1,19 @@
-# 👉 introduction
+# 介绍
 
-### Mission and vision of **MetaVision**&#x20;
+### 幻视的使命与愿景
 
-As mentioned above, the **MetaVision** supply platforms of web1 and web2 occupy the benefits of traffic and video value. And even the benefits of video providers in the web2 environment, the platform still makes a large amount of abstraction. In addition, it is difficult for video users in the web1 and web2 environments to have complete globality, and it is also difficult for user income to be distributed in the form of French currency that is commonly used globally.
+如前文简介，web1与web2的视频提供平台占据了流量、视频价值的收益。并且即使是web2环境下的视频提供者的收益，平台仍然进行了很大批量的抽成。另外，web1与web2环境下的视频用户较难具有完全的全球性，用户收益也很难以全球通用的法币形式进行分发。
 
-Traffic, user globalization, revenue unification is a complementary triangle. The vision of **MetaVision** is to create a platform that users can see and get ( watch to earn platform ), so that users can get the flow value of their own in daily entertainment. Users can also serve as providers of video creation to promote their creation globally and obtain the benefits of digital currency stabilization.**MetaVision** is divided into three sections : **PGC video, UGC video and live video**. It is hoped to become a web3 infrastructure platform for user autonomy and free distribution of traffic channels and benefits. The idea of illusion is : transparency, connection, sharing.
+流量、用户全球化、收益统一化是一个相辅相成的三角形。幻视的愿景在于打造一个用户所见即所得的平台（即watch to earn平台），使得用户在日常的娱乐中可以获取其自身所带来的流量价值。用户同时可以作为视频创作的提供者将其创作进行全球化推广并获得以数字稳定币的收益。幻视的视频提供分为**PGC**视频提供、**UGC**视频提供、直播视频提供三个版块，并希望成为一个用户自治与自由分配流量渠道与收益的**web3**基础设施平台。幻视的理念是：**透明**、**连接**、**分享**。
 
-### **MetaVision** user section
+### 幻视的用户版块
 
-#### Method of Obtaining VDFT
+#### VDFT的获得方法
 
-**MetaVision** user video use block is divided into : PGC block, UGC block, live block. Users can view and search video in any of these sections. The PGC section will be opened on the Phantom Line Phase 1 ; on the **MetaVision** Phase2, UGC and live sections will be opened synchronously.
+幻视的用户视频使用版块分为：**PGC**版块、**UGC**版块、直播版块。用户无论在上述任何一个版块都可以进行视频观看与搜索。在幻视上线Phase1，将会开放**PGC**版块；在幻视上线Phase2，**UGC**和直播版块将会同步开放。
 
-PGC : Users can choose the streaming media platform to watch the video. Fantasy will connect users to the platform to be selected. Any user action on the platform is the same as the platform ' s native system, and vision will serve as a bridge between web3 and traditional web2.
+**PGC**版块：用户可以通过选择拟观看视频的流媒体平台，幻视将连接用户至拟选择的平台。用户在该平台上的任何操作都与该平台原生系统相同，幻视将起到**web3**到传统web2的沟通桥梁作用。
 
-UGC : Users can choose to become creative users, and upload and share UGC platform in the illusion. Watching users on UGC platform can watch the videos shared by the creative users and carry out social activities such as praise and appreciation.
+**UGC**版块：用户可以选择成为创作用户，并在幻视内**UGC**平台上传与分享。观看用户在**UGC**平台中可以观看创作用户所分享的视频并进行点赞、打赏等社交活动。
 
-Live block : Users real-time live video sharing.
+**直播版块：**用户实时的进行直播视频的分享。

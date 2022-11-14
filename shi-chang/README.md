@@ -1,7 +1,7 @@
-# 📈 Market
+# 市场
 
-Here are the articles in this section :
+下是本节中的文章：
 
-### [Rental System](zu-lin-xi-tong.md)
+### ****[**租赁系统**  ](zu-lin-xi-tong.md)
 
-### [VFT Trading Market System](vft-jiao-yi-shi-chang-xi-tong.md)
+### ****[**VFT交易市场系统**](vft-jiao-yi-shi-chang-xi-tong.md)****
