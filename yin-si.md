@@ -1,3 +1,3 @@
-# 隐私
+# Privacy
 
-幻视没有兴趣从用户的数据中获利；幻视严格遵守Google和Apple的隐私要求。
+**Twshibainu** has no intention of gaining profit based on users' personal data. Twshibainu strictly follows to rules in the **USA**.
